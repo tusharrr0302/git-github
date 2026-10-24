@@ -1,5 +1,5 @@
 console.log("mujhe nahi pata kuch");
 
-console.log("ek naya feature");
+console.log("ek updated feature");
 
 //hello
