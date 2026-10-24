@@ -1,0 +1,1 @@
+console.log("mujhe nahi pata kuch")
